@@ -1,6 +1,6 @@
 MAIN_MAKEFILE=1
 include ffbuild/config.mak
-#test commit for signing
+#test commit for signing 2
 vpath %.c    $(SRC_PATH)
 vpath %.cpp  $(SRC_PATH)
 vpath %.h    $(SRC_PATH)
